@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
