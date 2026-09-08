@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -33,11 +34,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
