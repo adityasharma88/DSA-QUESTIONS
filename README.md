@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
