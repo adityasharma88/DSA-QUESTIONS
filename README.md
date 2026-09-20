@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
