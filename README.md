@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -66,5 +67,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
