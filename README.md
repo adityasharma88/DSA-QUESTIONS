@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
@@ -65,4 +66,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/herhackeruh/DSA-QUESTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
